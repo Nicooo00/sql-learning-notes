@@ -1,5 +1,7 @@
 USE AdventureWorksETL
 
+DROP TABLE IF EXISTS [stg].[SalesOrderHeaderBatch];
+
 CREATE TABLE [stg].[SalesOrderHeaderBatch] (
     SalesOrderID INT NOT NULL,
     CustomerID INT NOT NULL,
