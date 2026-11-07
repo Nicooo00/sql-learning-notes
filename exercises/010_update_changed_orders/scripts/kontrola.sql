@@ -41,12 +41,3 @@ SELECT
 FROM stg.SalesOrderHeader;
 -- sprawdza ilosc rekordow
 
-
-
-
--- Aby sprawdzic dzialanie skryptu nalezy najpiew wykonac skrypt 
--- przygotowanie.sql. Nastepnie wykonujemy pierwszy ze sktyptow z 
--- zadanie10.sql. Updatuje on wiersze w sposob opisany w zadaniu.
--- Aby cofnac te zmiany nalezy wykonac drugi zawarty w tym pliku skrypt.
--- Do kontroli danych po poszegolnych etapach sluza skrypty
--- zawarte w tym pliku.

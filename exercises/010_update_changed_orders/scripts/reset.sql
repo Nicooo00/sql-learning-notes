@@ -1,3 +1,5 @@
+USE AdventureWorksETL
+
 UPDATE oh
 SET oh.SubTotal = Aoh.SubTotal
 FROM stg.SalesOrderHeader oh
