@@ -58,4 +58,3 @@ FROM stg.SalesOrderHeader;
 
 
 
-
